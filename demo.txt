@@ -1,1 +1,1 @@
-Dans la fenêtre <> Edit file, entrez du texte dans le fichier demo.txt. Faites défiler jusqu'au bas de la page d'édition et sélectionnez Commit changes. Le message de validation par défaut ("Update demo.txt") est suffisant ici et il n'est pas nécessaire de le modifier. À ce stade, nous avons effectué une mise à jour de demo.txt sur le dépôt. Cependant, nous l'avons fait sur le serveur, voyons donc l'état de notre repo local. Mettre dans le rapport la capture écran. 
+﻿testing demo git pull
